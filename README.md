@@ -64,7 +64,7 @@ This project performs comprehensive machine learning analysis on the **Retail We
 
 ### Run the Analysis
 ```bash
-jupyter notebook rswi_analysis.ipynb
+jupyter notebook rswi_dataset1.ipynb
 ```
 
 ### Requirements
@@ -192,7 +192,7 @@ For questions or issues:
 
 ## 🎯 Summary
 
-The RWSI dataset analysis is now complete with all 5 machine learning algorithms including the newly added Linear Regression model. The code is production-ready and available in **rswi_analysis.ipynb** for immediate use.
+The RWSI dataset analysis is now complete with all 5 machine learning algorithms including the newly added Linear Regression model. The code is production-ready and available in **rswi_dataset1.ipynb** for immediate use.
 
 **Ready to analyze!** 🚀
 
