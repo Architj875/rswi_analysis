@@ -134,7 +134,7 @@ y_pred_proba_lin_reg = np.clip(y_pred_lin_reg, 0, 1)
 
 ## 📝 Notebook Structure
 
-### Untitled-1.ipynb Contains:
+### rswi_analysis Contains:
 1. Import Libraries
 2. Load & Explore Data
 3. Missing Values Analysis
@@ -182,33 +182,17 @@ For questions or issues:
 
 ---
 
-## ✅ Verification Checklist
-
-- [x] Linear Regression imported
-- [x] Model training code added
-- [x] Predictions clipped between 0-1
-- [x] Binary classification threshold implemented
-- [x] Model evaluation code updated
-- [x] Results dictionary includes Linear Regression
-- [x] Model count updated to 5
-- [x] Untitled-1.ipynb created
-- [x] Documentation complete
-- [x] All files verified
-
----
-
 ## 📅 Project Timeline
 
 - **Date**: 28-10-2025
 - **Status**: ✅ Complete
-- **User Request**: Add Linear Regression algorithm
 - **Result**: ✅ Successfully Implemented
 
 ---
 
 ## 🎯 Summary
 
-The RWSI dataset analysis is now complete with all 5 machine learning algorithms including the newly added Linear Regression model. The code is production-ready and available in **Untitled-1.ipynb** for immediate use.
+The RWSI dataset analysis is now complete with all 5 machine learning algorithms including the newly added Linear Regression model. The code is production-ready and available in **rswi_analysis.ipynb** for immediate use.
 
 **Ready to analyze!** 🚀
 
