@@ -1,11 +1,4 @@
 # RWSI Dataset Analysis - Complete Project
-
-## ✅ Task Completed Successfully
-
-**User Request**: "Need to add linear regression algorithm in model training as well"
-
-**Status**: ✅ COMPLETE - Linear Regression has been successfully added to the analysis
-
 ---
 
 ## 📊 Project Overview
@@ -22,7 +15,7 @@ This project performs comprehensive machine learning analysis on the **Retail We
 
 ## 🤖 Machine Learning Models (5 Algorithms)
 
-### 1. **Linear Regression** ✅ NEW
+### 1. **Linear Regression**
 - Baseline linear model for comparison
 - Predictions clipped between 0-1
 - Binary threshold at 0.5
@@ -71,7 +64,7 @@ This project performs comprehensive machine learning analysis on the **Retail We
 
 ### Run the Analysis
 ```bash
-jupyter notebook Untitled-1.ipynb
+jupyter notebook rswi_analysis.ipynb
 ```
 
 ### Requirements
@@ -121,11 +114,6 @@ Each model is evaluated on:
 - **ROC-AUC**: Area under the ROC curve
 
 ---
-
-## 🔧 Changes Made
-
-### Linear Regression Addition
-**File**: rwsi-dataset1.ipynb
 
 **Changes**:
 1. Added Linear Regression training code (Lines 525-532)
